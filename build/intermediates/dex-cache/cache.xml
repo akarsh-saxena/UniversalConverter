@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_7fd942909eb06f685adbbc10e8f0484d112f082a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_56c012e65deb29cfba0c2fd48a9410558f0fbe45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\libs\httpclient-4.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\httpclient-4.2.3_0871c92e0ba9f33faed4b5429ce1b36c782a46e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_f15408d0d88a50b8710ffaa4abd162da1339a315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_467eea72d418677162d3a311ee3d3f0945649032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_f9ee79ce0bfe79ea09bcca532b91efb8293267d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_81214196834ee16d915953da6234716aee30b68e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_d3a8cd3a59d5270013e75fc157a096b0bfbc5767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\json-simple\1.1\5e303a03d04e6788dddfa3655272580ae0fc13bb\json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\json-simple-1.1_f4a0c63c7004399a3deb91d6cc5491d1a5776810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_21c17adc3cefd4e63272dc3690f94de17864fca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_5eb061acb4bcd9a924308853c08b6191f633914f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_4b9040604e16ae5458112abf85df545730160b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_0d7e58dbb7d8ccf9b312f1c2def593eb7525b0d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_bcf6e9407f8386817b4e0192b86dd1f4b27aaca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidProjects\UniversalConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProjects\UniversalConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_8e4ab36c20b71e07cfd824215ebd828bedb817d4.jar" />
+    </item>
+
+</items>

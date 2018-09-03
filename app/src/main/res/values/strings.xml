@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Universal Converter</string>
+    <string-array name="myCategories">
+        <item>Distance/Length</item>
+        <item>Weight</item>
+        <item>Currency</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="distance_length">
+        <item>Picometer</item>
+        <item>Armstrong</item>
+        <item>Nanometer</item>
+        <item>Micrometer</item>
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inch</item>
+        <item>Mile</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Acre</item>
+    </string-array>
+
+    <string-array name="Currency">
+        <item>Indian Rupees:INR</item>
+        <item>US Dollar:USD</item>
+        <item>Japanese Yen:JPY</item>
+        <item>Malaysian Dollar:MSD</item>
+        <item>Great Britain:GBP</item>
+        <item>Bulgarian Lev:BGN</item>
+        <item>Brazilian Real:BRL</item>
+        <item>Australian Dollar:AUD</item>
+        <item>Canadian Dollar:CAD</item>
+        <item>Swiss Franc:CHF</item>
+        <item>Yuan Renminbi:CNY</item>
+        <item>Czech Koruna:CZK</item>
+        <item>Danish Krone:DKK</item>
+        <item>Hong Kong Dollar:HKD</item>
+        <item>Croatian Kuna:HRK</item>
+        <item>Hungarian Forint:HUF</item>
+        <item>Indonesian Rupiah:IDR</item>
+        <item>Israeli New Shekel:ILS</item>
+        <item>Korean Won:KRW</item>
+        <item>Mexican Nuevo Peso:MXN</item>
+        <item>Malaysian Ringgit:MYR</item>
+        <item>Norwegian Krone:NOK</item>
+        <item>New Zealand Dollar:NZD</item>
+        <item>Philippine Peso:PHP</item>
+        <item>Polish Zloty:PLN</item>
+        <item>Romanian New Leu:RON</item>
+        <item>Russian Ruble:RUB</item>
+        <item>Swedish Krona:SEK</item>
+        <item>Singapore Dollar:SGD</item>
+        <item>Thai Baht:THB</item>
+        <item>Turkish Lira:TRY</item>
+        <item>South African Rand:ZAR</item>
+        <item>Euro:EUR</item>
+    </string-array>
+</resources>
